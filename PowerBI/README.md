@@ -1,4 +1,6 @@
 # Power BI Dashboard
+-Dashboard_Page1.png.png
+-Dashboard_Page2.png.png
 
 This folder contains the Power BI dashboard file for Employee Attrition Analysis.
 
