@@ -26,7 +26,7 @@ This project analyzes employee attrition patterns, reasons and identifies factor
 - Medium salary employees leave the most(841).
 - Poor work-life balance is linked to higher attrition(731).
 - Lower job satisfaction increases attrition(729).
-- Exit reasons are almost equally distributed(nearest 20%).
+- Exit reasons are almost equally distributed(nearest20%).
 
 ## Recommendations
 
