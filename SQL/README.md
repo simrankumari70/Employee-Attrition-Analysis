@@ -2,7 +2,7 @@
 
 This folder contains SQL queries used for employee attrition analysis.
 
-File Included:
+File Included:-
 - Employee_Attrition_Analysis.sql
 
 Analysis Performed:
